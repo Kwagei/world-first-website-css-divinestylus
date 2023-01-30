@@ -13,6 +13,9 @@ html, body {
     color: #2B9CD4;
     text-decoration: none !important;
 }
+a:hover {
+    color: #01498D;
+}
 .dblue {
     color: #01498D;
 }
